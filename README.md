@@ -22,7 +22,7 @@ Students are strongly encouraged to _run all lectures locally_. Doing this will 
 instructions](https://docs.docker.com/compose/install/)
 * Download or clone this repository, e.g. via the command:
 ```sh
-git clone https://github.com/a3i-2023-2024/01-ad-de.git
+git clone https://github.com/a3i-2023-2024/02-ad-hd.git
 ```
 * Open a terminal in the main directory of the downloaded/cloned repository
 * Start the container via Docker Compose:
